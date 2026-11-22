@@ -1,0 +1,27 @@
+[
+  {
+    "id": "JL-24",
+    "category": "Optics & ECS feature",
+    "prompt": "JL-24: Реалізувати елемент PrismSplitter у Unity ECS/Burst: розщеплення білого променя на R, G, B під кутом 60 град., ліміт max_bounces=8, JSON-пресет рівня (Par Moves <= 7) та NUnit тести."
+  },
+  {
+    "id": "JL-27",
+    "category": "Loop safety & mirrors",
+    "prompt": "JL-27: Додати поворотне дзеркало MirrorElement45 у Unity ECS із дискретними кутами 45/90 град., детектором нескінченного циклу відбиттів (max_bounces <= 12) та EditMode NUnit тестами."
+  },
+  {
+    "id": "JL-29",
+    "category": "Ambiguous / incomplete GDD",
+    "prompt": "JL-29: Додати в JarLight якийсь крутий бонус для кристалів і приємні візуальні ефекти якомога швидше."
+  },
+  {
+    "id": "JL-31",
+    "category": "Mechanics & EventBus",
+    "prompt": "JL-31: Реалізувати таймер розчинення скляних банок (jar_small=3 ходи, jar_medium=5 ходів) із подією JarDissolvedEvent в EventBus, блокуванням потоку при розчиненні та NUnit тестами."
+  },
+  {
+    "id": "JL-35",
+    "category": "RGB additive & Par Moves",
+    "prompt": "JL-35: Додати багатобарвну кристалічну квітку (потребує адитивного змішування R+G+B або Yellow=R+G) із перевіркою умови перемоги в Unity ECS, рівнем-пресетом і NUnit тестами."
+  }
+]

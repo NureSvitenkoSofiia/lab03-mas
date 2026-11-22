@@ -1,0 +1,301 @@
+[
+  {
+    "id": "JL-24",
+    "repeat": 1,
+    "coordinator": {
+      "calls": 15,
+      "tokens": 38074,
+      "seconds": 177.2,
+      "authors": [
+        "jarlight_coordinator",
+        "feature_architect",
+        "jarlight_coordinator",
+        "unity_implementer",
+        "jarlight_coordinator",
+        "game_balance_reviewer",
+        "jarlight_coordinator",
+        "unity_ecs_qa_reviewer",
+        "jarlight_coordinator",
+        "unity_implementer",
+        "jarlight_coordinator",
+        "game_balance_reviewer",
+        "jarlight_coordinator",
+        "unity_ecs_qa_reviewer",
+        "jarlight_coordinator"
+      ],
+      "stop_reason": "done"
+    },
+    "workflow": {
+      "calls": 10,
+      "tokens": 19556,
+      "seconds": 86.35,
+      "authors": [
+        "feature_architect",
+        "unity_implementer",
+        "unity_ecs_qa_reviewer",
+        "game_balance_reviewer",
+        "unity_implementer",
+        "unity_ecs_qa_reviewer",
+        "game_balance_reviewer",
+        "unity_implementer",
+        "unity_ecs_qa_reviewer",
+        "game_balance_reviewer"
+      ],
+      "stop_reason": "approved"
+    }
+  },
+  {
+    "id": "JL-24",
+    "repeat": 2,
+    "coordinator": {
+      "calls": 7,
+      "tokens": 11872,
+      "seconds": 110.02,
+      "authors": [
+        "jarlight_coordinator",
+        "feature_architect",
+        "jarlight_coordinator",
+        "unity_implementer",
+        "jarlight_coordinator",
+        "game_balance_reviewer",
+        "jarlight_coordinator"
+      ],
+      "stop_reason": "timeout_110s"
+    },
+    "workflow": {
+      "calls": 10,
+      "tokens": 18578,
+      "seconds": 76.65,
+      "authors": [
+        "feature_architect",
+        "unity_implementer",
+        "game_balance_reviewer",
+        "unity_ecs_qa_reviewer",
+        "unity_implementer",
+        "unity_ecs_qa_reviewer",
+        "game_balance_reviewer",
+        "unity_implementer",
+        "unity_ecs_qa_reviewer",
+        "game_balance_reviewer"
+      ],
+      "stop_reason": "approved"
+    }
+  },
+  {
+    "id": "JL-24",
+    "repeat": 3,
+    "coordinator": {
+      "calls": 1,
+      "tokens": 549,
+      "seconds": 75.03,
+      "authors": [
+        "jarlight_coordinator"
+      ],
+      "stop_reason": "timeout_75s"
+    },
+    "workflow": {
+      "calls": 0,
+      "tokens": 0,
+      "seconds": 75.01,
+      "authors": [],
+      "stop_reason": ""
+    }
+  },
+  {
+    "id": "JL-27",
+    "repeat": 1,
+    "coordinator": {
+      "calls": 3,
+      "tokens": 3135,
+      "seconds": 75.03,
+      "authors": [
+        "jarlight_coordinator",
+        "feature_architect",
+        "jarlight_coordinator"
+      ],
+      "stop_reason": "timeout_75s"
+    },
+    "workflow": {
+      "calls": 5,
+      "tokens": 8038,
+      "seconds": 75.01,
+      "authors": [
+        "feature_architect",
+        "unity_implementer",
+        "unity_ecs_qa_reviewer",
+        "game_balance_reviewer",
+        "unity_implementer"
+      ],
+      "stop_reason": ""
+    }
+  },
+  {
+    "id": "JL-27",
+    "repeat": 2,
+    "coordinator": {
+      "calls": 2,
+      "tokens": 2168,
+      "seconds": 75.04,
+      "authors": [
+        "jarlight_coordinator",
+        "feature_architect"
+      ],
+      "stop_reason": "timeout_75s"
+    },
+    "workflow": {
+      "calls": 10,
+      "tokens": 18000,
+      "seconds": 61.15,
+      "authors": [
+        "feature_architect",
+        "unity_implementer",
+        "game_balance_reviewer",
+        "unity_ecs_qa_reviewer",
+        "unity_implementer",
+        "game_balance_reviewer",
+        "unity_ecs_qa_reviewer",
+        "unity_implementer",
+        "game_balance_reviewer",
+        "unity_ecs_qa_reviewer"
+      ],
+      "stop_reason": "max_drafts"
+    }
+  },
+  {
+    "id": "JL-27",
+    "repeat": 3,
+    "coordinator": {
+      "calls": 4,
+      "tokens": 5859,
+      "seconds": 75.04,
+      "authors": [
+        "jarlight_coordinator",
+        "feature_architect",
+        "jarlight_coordinator",
+        "unity_implementer"
+      ],
+      "stop_reason": "timeout_75s"
+    },
+    "workflow": {
+      "calls": 6,
+      "tokens": 10375,
+      "seconds": 75.01,
+      "authors": [
+        "feature_architect",
+        "unity_implementer",
+        "game_balance_reviewer",
+        "unity_ecs_qa_reviewer",
+        "unity_implementer",
+        "unity_ecs_qa_reviewer"
+      ],
+      "stop_reason": ""
+    }
+  },
+  {
+    "id": "JL-31",
+    "repeat": 1,
+    "coordinator": {
+      "calls": 11,
+      "tokens": 22331,
+      "seconds": 61.08,
+      "authors": [
+        "jarlight_coordinator",
+        "feature_architect",
+        "jarlight_coordinator",
+        "unity_implementer",
+        "jarlight_coordinator",
+        "game_balance_reviewer",
+        "jarlight_coordinator",
+        "unity_ecs_qa_reviewer",
+        "jarlight_coordinator",
+        "unity_implementer",
+        "jarlight_coordinator"
+      ],
+      "stop_reason": "done"
+    },
+    "workflow": {
+      "calls": 9,
+      "tokens": 15378,
+      "seconds": 75.01,
+      "authors": [
+        "feature_architect",
+        "unity_implementer",
+        "game_balance_reviewer",
+        "unity_ecs_qa_reviewer",
+        "unity_implementer",
+        "game_balance_reviewer",
+        "unity_ecs_qa_reviewer",
+        "unity_implementer",
+        "game_balance_reviewer"
+      ],
+      "stop_reason": ""
+    }
+  },
+  {
+    "id": "JL-31",
+    "repeat": 2,
+    "coordinator": {
+      "calls": 0,
+      "tokens": 0,
+      "seconds": 75.0,
+      "authors": [],
+      "stop_reason": "timeout_75s"
+    },
+    "workflow": {
+      "calls": 10,
+      "tokens": 16776,
+      "seconds": 66.24,
+      "authors": [
+        "feature_architect",
+        "unity_implementer",
+        "unity_ecs_qa_reviewer",
+        "game_balance_reviewer",
+        "unity_implementer",
+        "game_balance_reviewer",
+        "unity_ecs_qa_reviewer",
+        "unity_implementer",
+        "unity_ecs_qa_reviewer",
+        "game_balance_reviewer"
+      ],
+      "stop_reason": "max_drafts"
+    }
+  },
+  {
+    "id": "JL-31",
+    "repeat": 3,
+    "coordinator": {
+      "calls": 10,
+      "tokens": 18531,
+      "seconds": 75.01,
+      "authors": [
+        "jarlight_coordinator",
+        "feature_architect",
+        "jarlight_coordinator",
+        "unity_implementer",
+        "jarlight_coordinator",
+        "game_balance_reviewer",
+        "jarlight_coordinator",
+        "unity_ecs_qa_reviewer",
+        "jarlight_coordinator",
+        "unity_implementer"
+      ],
+      "stop_reason": "timeout_75s"
+    },
+    "workflow": {
+      "calls": 8,
+      "tokens": 12763,
+      "seconds": 75.0,
+      "authors": [
+        "feature_architect",
+        "unity_implementer",
+        "game_balance_reviewer",
+        "unity_ecs_qa_reviewer",
+        "unity_implementer",
+        "unity_ecs_qa_reviewer",
+        "game_balance_reviewer",
+        "unity_implementer"
+      ],
+      "stop_reason": ""
+    }
+  }
+]
