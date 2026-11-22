@@ -6,7 +6,8 @@
 - **Дата:** `22.11.2026`
 - **Автор:** Світенко Софія Миколаївна, група ПЗПІ-23-3, e-mail: `sofiia.svitenko@nure.ua`
 - **Ліцензія:** MIT
-- **Посилання на архів:** Локальний Git-репозиторій (`lab03-mas`) та архів `lab03-mas.zip`
+- **Репозиторій GitHub:** https://github.com/NureSvitenkoSofiia/lab03-mas
+- **Посилання на архів:** https://drive.google.com/drive/folders/1bWwv-3Tem3rG6mSIj-EJxgJ3uIas73Yg
 
 ## 2. Призначення
 - **Задача:** Автоматизація етапу проєктування та конструювання ігрових фіч і механік 2D-головоломки **JarLight** на рушії Unity (C# ECS / Burst, гексагональна сітка, оптичні закони Снелла й RGB, нормативи `Par Moves`) — від текстового GDD-запиту до перевіреного пакета змін (Draft Feature PR, JSON-пресет рівня, NUnit-тести).
